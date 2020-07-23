@@ -20,12 +20,18 @@
 * __Recognizes__ different gestures and performs actions like switch virtual desktops, media controls, etc
 * The actions are __customizable__
 
+If time permits, we will be able to achieve the following :
+* Sometimes controlling 3d models in applications like blender may be hard, to both normal and differently abled people. So we would like to develop this program to make controlling things more natural
+* Play games with gestures : An Xbox controller provides way smoother controls compared to the keyboard. So we would like to achieve controller level granularity in controlling games (e.g. driving)
+
+
 <br>
 
 ## :seedling: Applications
 
 * This can help us use the computer in a much more __personalized__ way
 * It is also very helpful to __differently abled__ people
+* The way we use technology hasn't changed since a lot of years, so love it or hate it, gestures are the future!
 
 <br>
 
