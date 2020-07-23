@@ -29,6 +29,15 @@
 
 <br>
 
+## Tools Used
+
+* Python from the [Official Website](https://www.python.org/)
+* Open CV 
+  - By running `pip install opencv-python` on python terminal.
+   - More info on package [here](https://pypi.org/project/opencv-python/) 
+
+<br>
+
 ## :page_facing_up: License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
