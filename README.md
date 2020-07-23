@@ -38,9 +38,12 @@ If time permits, we will be able to achieve the following :
 ## :hammer: Tools Used
 
 * Python from the [Official Website](https://www.python.org/)
-* Open CV 
-  - By running `pip install opencv-python` on python terminal.
-   - More info on package [here](https://pypi.org/project/opencv-python/) 
+* [OpenCV](https://opencv.org/) for Image Processing
+  - Install by running `pip install opencv-python` on terminal
+  - More info on package [here](https://pypi.org/project/opencv-python/) 
+* [PyQt5](https://riverbankcomputing.com/software/pyqt/intro) for building GUI
+  - Install by running `pip install PyQt5' on terminal
+  - Qt for Python [documentation](https://doc.qt.io/qtforpython/)
 
 <br>
 
