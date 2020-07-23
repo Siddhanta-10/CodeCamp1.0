@@ -29,7 +29,7 @@
 
 <br>
 
-## Tools Used
+## :hammer: Tools Used
 
 * Python from the [Official Website](https://www.python.org/)
 * Open CV 
