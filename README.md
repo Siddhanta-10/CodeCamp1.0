@@ -1,26 +1,39 @@
 <h1 align="center">Gesture Recognizer
 </h1>
 <h5 align="center">A program which performs specific actions based on gestures.
+</h5>
+
+<h5 align="center">
 
 [![Contributors](https://badgen.net/github/contributors/Karthikeshwar1/CodeCamp1.0)]()
 [![Commits](https://badgen.net/github/commits/Karthikeshwar1/CodeCamp1.0)]()
 
+</h5>
+
 > This repository is a submission to the [CodeCamp 1.0 hackathon](https://codecamphackathon.netlify.app/) by team Utopians under the theme _Empowering Differently Abled_
 
+
+<br>
 
 ## :sparkles: Features
 
 * __Recognizes__ different gestures and performs actions like switch virtual desktops, media controls, etc
 * The actions are __customizable__
 
+<br>
+
 ## :seedling: Applications
 
 * This can help us use the computer in a much more __personalized__ way
 * It is also very helpful to __differently abled__ people
 
+<br>
+
 ## :page_facing_up: License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<br>
 
 ## :man_technologist: Contributors
 
