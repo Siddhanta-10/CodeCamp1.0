@@ -42,7 +42,7 @@ If time permits, we will be able to achieve the following :
   - Install by running `pip install opencv-python` on terminal
   - More info on package [here](https://pypi.org/project/opencv-python/) 
 * [PyQt5](https://riverbankcomputing.com/software/pyqt/intro) for building GUI
-  - Install by running `pip install PyQt5' on terminal
+  - Install by running `pip install PyQt5` on terminal
   - Qt for Python [documentation](https://doc.qt.io/qtforpython/)
 
 <br>
